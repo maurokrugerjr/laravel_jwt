@@ -18,10 +18,6 @@ Este projeto foi desenvolvido como um estudo para praticar a implementação de 
 
 ## Funcionalidades
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
 - Login: Rota para autenticação do usuário e geração de token.
 - Logout: Rota para deslogar e invalidar o token.
 - Refresh: Rota para renovar o token de autenticação.
